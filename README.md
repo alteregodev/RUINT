@@ -5,6 +5,7 @@
 
 - [FIO/INN](https://github.com/alteregodev/RUINT/edit/main/README.md#fioinn)
 - [GEOINTEL](https://github.com/alteregodev/RUINT/edit/main/README.md#geointel)
+- [Phone Numbers](https://github.com/alteregodev/RUINT/edit/main/README.md#phone-numbers)
 
 ### FIO/INN
 
@@ -18,5 +19,8 @@
 - https://yandex.ru/maps - Yandex Maps, similar to Google Maps but better for Russia.
 - https://2gis.ru/ - Shows a lot of tiny or hidden details, with 3D view. Also provides information on places like cafes or restaurants.
 - https://yandex.ru/images/ - Reverse image search.
+
+### Phone Numbers
+- https://smsc.ru/testhlr - HLR Lookup, provides information about a carrier, region, and status.
 
 ##### To be continued...
