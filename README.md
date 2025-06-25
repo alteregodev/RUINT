@@ -33,4 +33,8 @@
 - http://topdb.ru/ - A lot of archived VKontakte profiles free to view.
 - https://profiles-vkontakte.ru/ - More archived VKontakte profiles with extended information.
 
+### Leaks
+- https://leakosint.com/ - API for getting information from data leaks.
+- https://osintkit.net/ - Provides information about FIO, phone numbers, and addreses from various data leaks
+
 #### To be continued...
