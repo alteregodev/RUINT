@@ -6,6 +6,7 @@
 - [FIO/INN](https://github.com/alteregodev/RUINT/edit/main/README.md#fioinn)
 - [GEOINTEL](https://github.com/alteregodev/RUINT/edit/main/README.md#geointel)
 - [Phone Numbers](https://github.com/alteregodev/RUINT/edit/main/README.md#phone-numbers)
+- [Facial Recognition](https://github.com/alteregodev/RUINT/edit/main/README.md#facial-recognition)
 
 ### FIO/INN
 
@@ -22,5 +23,9 @@
 
 ### Phone Numbers
 - https://smsc.ru/testhlr - HLR Lookup, provides information about a carrier, region, and status.
+- https://ищейка.com/ - Lookup phone number, registered accounts and its mentions in the internet, IP lookup also avaliable.
 
-##### To be continued...
+### Facial Recognition
+- https://search4faces.com - Find people by their face on platforms like OK and VKontakte.
+
+#### To be continued...
