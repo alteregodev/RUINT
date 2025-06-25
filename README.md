@@ -7,6 +7,7 @@
 - [GEOINTEL](https://github.com/alteregodev/RUINT/edit/main/README.md#geointel)
 - [Phone Numbers](https://github.com/alteregodev/RUINT/edit/main/README.md#phone-numbers)
 - [Facial Recognition](https://github.com/alteregodev/RUINT/edit/main/README.md#facial-recognition)
+- [Social Media](https://github.com/alteregodev/RUINT/edit/main/README.md#social-media)
 
 ### FIO/INN
 
@@ -27,5 +28,9 @@
 
 ### Facial Recognition
 - https://search4faces.com - Find people by their face on platforms like OK and VKontakte.
+
+### Social media
+- http://topdb.ru/ - A lot of archived VKontakte profiles free to view.
+- https://profiles-vkontakte.ru/ - More archived VKontakte profiles with extended information.
 
 #### To be continued...
