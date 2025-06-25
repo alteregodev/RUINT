@@ -8,6 +8,7 @@
 - [Phone Numbers](https://github.com/alteregodev/RUINT/edit/main/README.md#phone-numbers)
 - [Facial Recognition](https://github.com/alteregodev/RUINT/edit/main/README.md#facial-recognition)
 - [Social Media](https://github.com/alteregodev/RUINT/edit/main/README.md#social-media)
+- [Leaks](https://github.com/alteregodev/RUINT/blob/main/README.md#leaks)
 
 ### FIO/INN
 
