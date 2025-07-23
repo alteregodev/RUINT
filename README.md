@@ -17,6 +17,7 @@
 - https://www.list-org.com/ - Find data about a counterparty.
 - https://kad.arbitr.ru/ - Find information in arbitration court archives.
 - https://github.com/alteregodev/collector/ - Tool for automated information gathering by FIO.
+- https://looka.one - Lookup name
 
 ### GEOINTEL
 - https://yandex.ru/maps - Yandex Maps, similar to Google Maps but better for Russia.
