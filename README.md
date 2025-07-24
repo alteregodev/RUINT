@@ -40,6 +40,6 @@
 
 ### Leaks
 - https://leakosint.com/ - API for getting information from data leaks.
-- https://osintkit.net/ - Provides information about FIO, phone numbers, and addreses from various data leaks
+- https://osintkit.net/ - Provides information about FIO, phone numbers, and addreses from various data leaks, 5 free requests per day.
 
 #### To be continued...
