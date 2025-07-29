@@ -37,7 +37,8 @@
 ### Social media
 - http://topdb.ru/ - A lot of archived VKontakte profiles free to view.
 - https://profiles-vkontakte.ru/ - More archived VKontakte profiles with extended information.
-- https://okigo.ru/user/ - View ok.ru profiles anonymously
+- https://vk.watch/search/ - Search VKontakte profiles.
+- https://okigo.ru/user/ - View ok.ru profiles anonymously.
 
 ### Leaks
 - https://leakosint.com/ - API for getting information from data leaks.
