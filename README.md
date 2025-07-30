@@ -9,6 +9,7 @@
 - [Facial Recognition](https://github.com/alteregodev/RUINT/edit/main/README.md#facial-recognition)
 - [Social Media](https://github.com/alteregodev/RUINT/edit/main/README.md#social-media)
 - [Leaks](https://github.com/alteregodev/RUINT/blob/main/README.md#leaks)
+- [Other]()
 
 ### FIO/INN
 
@@ -43,5 +44,8 @@
 ### Leaks
 - https://leakosint.com/ - API for getting information from data leaks.
 - https://osintkit.net/ - Provides information about FIO, phone numbers, and addreses from various data leaks, 5 free requests per day.
+
+### Other
+- http://manyweb.ru/ - Information about websites.
 
 #### To be continued...
