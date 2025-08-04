@@ -43,8 +43,9 @@
 - https://okigo.ru/user/ - View ok.ru profiles anonymously.
 
 ### Leaks
-- https://leakosint.com/ - API for getting information from data leaks.
-- https://osintkit.net/ - Provides information about FIO, phone numbers, and addreses from various data leaks, 5 free requests per day.
+- https://leakosint.com/ - API for getting information from data leaks. Paid.
+- https://osintkit.net/ - Provides information about FIO, phone numbers, and addreses from various data leaks, 5 free requests per day. There is also a good premium subscription.
+- https://himera-search.app/ - Search information from data leaks, has an API and a telegram bot. Paid.
 
 ### Other
 - http://manyweb.ru/ - Information about websites.
