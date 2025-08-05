@@ -49,5 +49,6 @@
 
 ### Other
 - http://manyweb.ru/ - Information about websites.
+- https://online-metadata.com/ru - Edit metadata
 
 #### To be continued...
