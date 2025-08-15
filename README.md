@@ -51,5 +51,6 @@
 ### Other
 - http://manyweb.ru/ - Information about websites.
 - https://online-metadata.com/ru - Edit metadata
+- https://github.com/soxoj/maigret - Fork of sherlock username checker, made by a russian developer and checks a username on many russian websites
 
 #### To be continued...
