@@ -20,7 +20,7 @@
 - https://kad.arbitr.ru/ - Find information in arbitration court archives.
 - https://github.com/alteregodev/collector/ - Tool for automated information gathering by FIO.
 - https://looka.one - Lookup name
-- https://poisk.center - Lookup name
+- https://poisk.center - Lookup name, often gives more information than looka.one
 - https://avtonalogi.ru/ - Lookup person's taxes by INN or passport
 
 ### GEOINTEL
