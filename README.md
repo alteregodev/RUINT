@@ -49,6 +49,7 @@
 - https://leakosint.com/ - API for getting information from data leaks. Paid. Has a telegram bot.
 - https://osintkit.net/ - Provides information about FIO, phone numbers, and addreses from various data leaks, 5 free requests per day. There is also a good premium subscription.
 - https://himera-search.app/ - Search information from data leaks, has an API and a telegram bot. Paid.
+- https://breachka.com/ - Retrieve information from data leaks, has an API. Provides 3 free requests per day. There is also a premium subscription.
 
 ### Other
 - http://manyweb.ru/ - Information about websites.
