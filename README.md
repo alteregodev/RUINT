@@ -22,6 +22,7 @@
 - https://looka.one - Lookup name
 - https://poisk.center - Lookup name, often gives more information than looka.one
 - https://avtonalogi.ru/ - Lookup person's taxes by INN or passport
+- https://rusfinder.pro/ - Find social media accounts by name
 
 ### GEOINTEL
 - https://yandex.ru/maps - Yandex Maps, similar to Google Maps but better for Russia.
