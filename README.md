@@ -52,6 +52,7 @@
 - https://himera-search.app/ - Search information from data leaks, has an API and a telegram bot. Paid.
 - https://breachka.com/ - Retrieve information from data leaks, has an API. Provides 3 free requests per day. There is also a premium subscription.
 - https://vipchecker.ru/ - Check minecraft usernames for data leaks.
+- https://bonday.xyz/vipchecker - Check minecraft usernames for data leaks, decode hashes, parse accounts.
 
 ### Other
 - http://manyweb.ru/ - Information about websites.
