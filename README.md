@@ -42,6 +42,7 @@
 - https://profiles-vkontakte.ru/ - More archived VKontakte profiles with extended information.
 - https://vk.watch/search/ - Search VKontakte profiles.
 - https://okigo.ru/user/ - View ok.ru profiles anonymously.
+- https://220vk.com - Find hidden VKontakte friends
 
 ### Leaks
 - https://leakosint.com/ - API for getting information from data leaks. Paid. Has a telegram bot.
